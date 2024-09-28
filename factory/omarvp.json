@@ -1,0 +1,9 @@
+{
+	"name": "omarvp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c565f00e-080e-4f7e-8cac-c7fc6736ba07",
+		"tenantId": "00a6a998-fd52-4419-bea4-f5c4e0c442a9"
+	}
+}
