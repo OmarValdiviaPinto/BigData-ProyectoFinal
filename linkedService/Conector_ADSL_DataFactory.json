@@ -1,0 +1,12 @@
+{
+	"name": "Conector_ADSL_DataFactory",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://ovaldiviapcertus.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDhFQzM3MzI2LUU1QjMtNDk3RC04REIxLTIzNDg2QzQ4RUQ1Ql85ZWQ5NmE5Yi1kNjVhLTQzMzUtYWQ3Yy1jMzAwYTc4MDZmY2QiDQp9"
+		}
+	}
+}
