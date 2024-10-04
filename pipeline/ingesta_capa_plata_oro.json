@@ -1,6 +1,7 @@
 {
 	"name": "ingesta_capa_plata_oro",
 	"properties": {
+		"description": "ingesta de archivos desde la capa plata hacia la capa oro",
 		"activities": [
 			{
 				"name": "Notebook1",
